@@ -1,6 +1,7 @@
-# foodapp
+# CZ2006 Software Enginering
 
-A new Flutter project.
+This is a flutter food app called "EasyFood". This app finds food establishments based on specified preferences, providing real-time traffic updates
+and estimated arrival times. Additionally, provides recipe suggestions tailored to specific ingredients and calories intake.
 
 ## Getting Started
 
